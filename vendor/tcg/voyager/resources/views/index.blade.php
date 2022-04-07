@@ -1,7 +1,6 @@
 @extends('voyager::master')
 
 @section('content')
-    <section>youssef here</section>
     <div class="page-content">
         @include('voyager::alerts')
         @include('voyager::dimmers')
